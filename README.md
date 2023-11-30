@@ -1,5 +1,5 @@
-# PSXDupe
-Pet Simulator X Trade Scam Script Working! 
+# Pet Simulator X Trade Script Release! 
+Pet Simulator X Trade Scam Script is now Working! 
 
 Please do not leak 😭
 
