@@ -7,7 +7,7 @@ Here is a list of features of the gui:
 - Trade Scam
 - Visual Pets
 - Fake Partner
-- Bank Dule
+- Bank Dupe
 - Trade Dupe
 - Auction Scam
 - Trade Lag
